@@ -1,0 +1,26 @@
+{
+  "name": "@marovski/workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marovski/how-to-npm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "marovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marovski/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/marovski/how-to-npm#readme"
+}
